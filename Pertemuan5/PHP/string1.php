@@ -1,4 +1,6 @@
 <?php
+// Judul: Manipulasi Teks dalam String
+// Deskripsi: Penggunaan fungsi-fungsi untuk manipulasi teks dalam string.
 
 $loremIpsum = "Lorem ipsum dolor sit amet consectetur adipisicing elit.
 Voluptatem reprehenderit nobis veritatis commodi fugiat molestias

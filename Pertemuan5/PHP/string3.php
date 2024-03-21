@@ -1,4 +1,6 @@
 <?php
+// Judul: Memutar Setiap Kata dalam Sebuah Kalimat
+// Deskripsi: Mengubah setiap kata dalam sebuah kalimat menjadi kebalikannya.
 
 $pesan = "saya arek malang";
 # ubah variabel $pesan menjadi array dengan perintah explode

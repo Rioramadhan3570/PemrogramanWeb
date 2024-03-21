@@ -1,4 +1,7 @@
 <?php
+// Judul: Menampilkan Menu Bertingkat dari Array Asosiatif
+// Deskripsi: Fungsi untuk menampilkan menu dengan struktur bertingkat dari array asosiatif.
+
 $menu = [
   [
     "nama" => "Beranda"

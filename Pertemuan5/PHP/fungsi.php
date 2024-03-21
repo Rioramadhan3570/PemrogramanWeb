@@ -1,4 +1,7 @@
 <?php
+// Judul: Fungsi Perkenalan dan Perhitungan Umur
+// Deskripsi: Mendefinisikan fungsi perkenalan dan hitungUmur, serta memanggilnya untuk perkenalan Rio.
+
 //membuat fungsi
 function hitungUmur($thn_lahir, $thn_sekarang){
     $umur = $thn_sekarang - $thn_lahir;

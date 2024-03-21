@@ -1,4 +1,6 @@
 <?php
+// Judul: Penggunaan Karakter Khusus dalam String
+// Deskripsi: Demonstrasi penggunaan karakter khusus dalam string.
 
 echo "Baris\nbaru <br>"; //soal 10.a
 echo 'Baris\nbaru <br>'; //soal 10.b
