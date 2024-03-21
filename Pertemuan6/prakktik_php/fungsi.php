@@ -1,4 +1,7 @@
 <?php
+// Judul: Fungsi Perkenalan dan Perhitungan Umur
+// Deskripsi: Mendefinisikan fungsi perkenalan dan hitungUmur, serta memanggilnya untuk perkenalan dengan nama "Elok".
+
 //membuat fungsi
 function hitungUmur($thn_lahir, $thn_sekarang){
     $umur = $thn_sekarang - $thn_lahir;
@@ -14,5 +17,5 @@ function perkenalan ($nama, $salam="Assalamuallaikum") {
 }
 
 //memanggil fungsi perkenalan
-    perkenalan ("Elok");
+perkenalan ("Elok");
 ?>
